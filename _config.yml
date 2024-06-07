@@ -1,39 +1,42 @@
 # site settings
-title: Solid State
-subtitle: by HTML5 UP
-email: your@email.address
-description: ANOTHER FREE + FULLY RESPONSIVE SITE TEMPLATE BY <a href="https://html5up.net/">HTML5 UP</a>
-baseurl: "/solid-state-jekyll-theme" # the subpath of your site, e.g. /blog
+title: On Gods and Sages
+subtitle: A blog on the spirit
+email: raja@thekollurus.com
+description: Some travelogues to Spiritual places + religious ruminations by a soul in search of peace
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: Raja Shankar Kolluru
+street_address: Somwhere out there
+city: Bangalore
+state: KA
+zip_code: 
+country: India
+phone: 
 
 # social settings
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # build settings
 markdown: kramdown
 
 menus:
-  - Home: "/index.html"
-  - Generic: "/generic.html"
-  - Elements: "/elements.html"
-  - Log in: "#"
-  - Sign up: "#"
+  - Home: "/"
+  - Musings: "/category/001-musings.html"
+  - Ethics: "/category/002-ethics.html"
+  - History: "/category/003-history.html"
+  - Time: "/category/004-time.html"
+  - Kedar And Badri: "/category/005-himalayan-travels-2015.html"
+  - Mada Maheshwar: "/category/006-himalayan-travels-2018.html"
+  
 
 sass:
   style: compressed

@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
+
 // Misc.
 	$misc: (
 		z-index-base:			10000,
@@ -28,11 +31,13 @@
 		)
 	);
 
+
+
 // Font.
 	$font: (
-		family:					('Source Sans Pro', Helvetica, sans-serif),
-		family-fixed:			('Courier New', monospace),
-		family-heading:			(Raleway, Helvetica, sans-serif),
+		family:					('Josefin Sans', 'Source Sans Pro', Helvetica, sans-serif),
+		family-fixed:			('Josefin Sans', 'Courier New', monospace),
+		family-heading:			('Josefin Sans', Raleway, Helvetica, sans-serif),
 		weight:					300,
 		weight-bold:			600,
 		weight-heading:			200,
