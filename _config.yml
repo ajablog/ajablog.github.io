@@ -6,7 +6,7 @@ description: Some travelogues to Spiritual places + religious ruminations by a s
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Raja Shankar Kolluru
-street_address: Somwhere out there
+street_address: Somewhere out there
 city: Bangalore
 state: KA
 zip_code: 
@@ -36,6 +36,7 @@ menus:
   - Time: "/category/004-time.html"
   - Kedar And Badri: "/category/005-himalayan-travels-2015.html"
   - Mada Maheshwar: "/category/006-himalayan-travels-2018.html"
+  - Kumbh 2025: "/category/007-kumbh-2025.html"
   
 
 sass:
