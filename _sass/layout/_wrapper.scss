@@ -16,7 +16,7 @@
 
 	#wrapper {
 		> header {
-			@include padding(7.5em, 0, (3.5em, 0, _size(wrapper-edges, large) * -0.5, 0));
+			@include padding(3.5em, 0, (1.5em, 0, _size(wrapper-edges, large) * -0.5, 0));
 
 			.inner {
 				margin: 0 auto;
@@ -42,7 +42,7 @@
 
 		@include breakpoint(large) {
 			> header {
-				@include padding(5em, 0, (4em, 0, _size(wrapper-edges, large) * 0.5, 0));
+				@include padding(2.5em, 0, (1.5em, 0, _size(wrapper-edges, large) * 0.5, 0));
 
 				background-color:		_palette(bg);
 
@@ -61,7 +61,7 @@
 
 		@include breakpoint(medium) {
 			> header {
-				@include padding(7em, 3em, (4em, 0, _size(wrapper-edges, medium) * 0.5, 0));
+				@include padding(3.5em, 3em, (1.5em, 0, _size(wrapper-edges, medium) * 0.5, 0));
 
 				background-size:		auto,
 										cover;
@@ -79,7 +79,7 @@
 
 		@include breakpoint(small) {
 			> header {
-				@include padding(3.75em, 2em, (2.75em, 0, _size(wrapper-edges, small) * 0.5, 0));
+				@include padding(2em, 2em, (1.25em, 0, _size(wrapper-edges, small) * 0.5, 0));
 
 				background-size:		auto,
 										125%;
@@ -163,7 +163,7 @@
 			.image {
 				border-radius: 100%;
 				margin: 0 _size(section-spacing, large) _size(element-margin) 0;
-				width: 22em;
+				width: 15em;
 				overflow: hidden;
 				-ms-flex: 1;
 

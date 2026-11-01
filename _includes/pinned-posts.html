@@ -1,7 +1,7 @@
 {% assign features = site.pages | where:"featured",true %}
 {% assign posts_bundles = site.pages | where:"layout","posts" | sort:"order" %}
 {% for posts in posts_bundles %}
-{% assign is_alt = forloop.index | plus: features.size | modulo:2 %}
+{% assign is_alt = forloop.index | plus: features.size | plus: 1 | modulo:2 %}
 {% capture alt %}{% if is_alt == 0 %} alt{% endif %}{% endcapture %}
 <!-- Pinned Posts -->
 <section id="pinned-posts-{{ posts.category }}" class="wrapper{{ alt }} spotlight style{{ forloop.index | plus: features.size }}">
