@@ -25,6 +25,15 @@ pinterest_url:
 slack_url:
 twitter_url: 
 
+# comments (giscus - stored in GitHub Discussions on this repo)
+# Fill in category_id from https://giscus.app after enabling Discussions.
+# Comments stay hidden until category_id is set.
+giscus:
+  repo: ajablog/ajablog.github.io
+  repo_id: R_kgDOMEsbBA
+  category: Comments
+  category_id: DIC_kwDOMEsbBM4DKH35
+
 # build settings
 markdown: kramdown
 
