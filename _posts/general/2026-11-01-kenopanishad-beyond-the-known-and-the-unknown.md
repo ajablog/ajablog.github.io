@@ -38,14 +38,14 @@ Knowing is delusion and not knowing is blankness. Nanquan shuts both doors on hi
 
 The Kenopanishad opens with a deceptively simple question - *keneṣitam patati preṣitam manaḥ* - "Willed by whom does the mind go forth?" And then, a couple of verses later, comes the mantra that I love the most:
 
-> न तत्र चक्षुर्गच्छति न वाग्गच्छति नो मनः ।
-> न विद्मो न विजानीमो यथैतदनुशिष्यात् ॥
-> अन्यदेव तद्विदितादथो अविदितादधि ।
+> न तत्र चक्षुर्गच्छति न वाग्गच्छति नो मनः ।  
+> न विद्मो न विजानीमो यथैतदनुशिष्यात् ॥  
+> अन्यदेव तद्विदितादथो अविदितादधि ।  
 > इति शुश्रुम पूर्वेषां ये नस्तद्व्याचचक्षिरे ॥
 >
-> *na tatra cakṣur gacchati na vāg gacchati no manaḥ*
-> *na vidmo na vijānīmo yathaitad anuśiṣyāt*
-> *anyad eva tad viditād atho aviditād adhi*
+> *na tatra cakṣur gacchati na vāg gacchati no manaḥ*  
+> *na vidmo na vijānīmo yathaitad anuśiṣyāt*  
+> *anyad eva tad viditād atho aviditād adhi*  
 > *iti śuśruma pūrveṣāṃ ye nas tad vyācacakṣire*
 
 "The eye does not reach there, nor speech, nor the mind. We do not know, nor do we understand, how one could teach it. It is other than the known, and it is beyond the unknown as well. So we have heard from the ancients who explained it to us."
