@@ -3,6 +3,10 @@ source "https://rubygems.org"
 # Local preview only. GitHub Pages builds the live site with its own Jekyll.
 gem "jekyll", "~> 4.4"
 
+group :jekyll_plugins do
+  gem "jekyll-sitemap"
+end
+
 # Newer Rubies (3.x) no longer bundle these, and Jekyll needs them
 gem "webrick"
 gem "csv"

@@ -4,7 +4,7 @@ subtitle: A blog on the spirit
 email: raja@thekollurus.com
 description: Some travelogues to Spiritual places + religious ruminations by a soul in search of peace
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://ajablog.github.io" # the base hostname & protocol for your site
 author: Raja Shankar Kolluru
 street_address: Somewhere out there
 city: Bangalore
@@ -35,6 +35,23 @@ giscus:
   category_id: DIC_kwDOMEsbBM4DKH35
 
 # build settings
+plugins:
+  - jekyll-sitemap
+
+# keep theme demo pages and the 404 page out of the sitemap
+defaults:
+  - scope:
+      path: "elements.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "generic.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "404.md"
+    values:
+      sitemap: false
 markdown: kramdown
 
 menus:
